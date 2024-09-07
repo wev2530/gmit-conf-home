@@ -98,8 +98,8 @@ button {
   height: 2081.5px;
   top: 2272px;
   left: -31px;
-  background: url(./assets/images/14694954-6fcf-4610-8c0a-a12c641fdf99.png)
-    no-repeat center;
+  background: url(./ssets/images/14694954-6fcf-4610-8c0a-a12c641fdf99.png)
+    no-repeat center #000;
   background-size: cover;
   z-index: 101;
 }
