@@ -98,8 +98,8 @@ button {
   height: 2081.5px;
   top: 2272px;
   left: -31px;
-  background: url(./ssets/images/14694954-6fcf-4610-8c0a-a12c641fdf99.png)
-    no-repeat center #000;
+  background: url(./ssets/images/image.png)
+    no-repeat center #0000;
   background-size: cover;
   z-index: 101;
 }
@@ -4634,21 +4634,33 @@ button {
   letter-spacing: -1.04px;
   z-index: 126;
 }
+
 iframe{
+  position: absolute;
+  z-index: 90;
+  width: 50%;
+  height: 100%;
+  top: 500px;
+  left: 7%;
+}
+
+.iframe{
   z-index: 90;
   background: #0000;
   width: 200px;
   height: 200px;
   overflow-x: hidden;
-  top: 7360px;
+  top: 7930px;
 }
 
-iframe{
+.iframe{
   width: 50%;
   position: absolute;
   left: 6%;
 
 }
+
+
 
 .meetD{
   width: 100vw;
