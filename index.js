@@ -14,7 +14,7 @@ spPage.addEventListener("click", function(){
 const aboutPage = document.querySelector(".about");
 
 aboutPage.addEventListener("click", function(){
-    window.location.href = "https://gmit-conf-speakers.netlify.app/"
+    window.location.href = "https://gmitf-conf-about.webflow.io/"
 });
 
 
