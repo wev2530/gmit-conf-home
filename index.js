@@ -37,3 +37,9 @@ const bookASeat2 = document.querySelector(".rectangle-e2");
 bookASeat2.addEventListener("click", function(){
     window.location.href = "https://lu.ma/49zk9vh8/"
 })
+
+const twitter = document.querySelector(".vector-dc");
+
+twitter.addEventListener("click",  function(){
+    window.location.href = "https://x.com/Techjuniorfound/"
+})
