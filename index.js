@@ -20,6 +20,6 @@ aboutPage.addEventListener("click", function(){
 
 const gmitHome = document.querySelector(".gmit-home");
 
-spPage.addEventListener("click", function(){
+gmitHome.addEventListener("click", function(){
     window.location.href = "https://greatmindsintechfoundation.webflow.io/"
 })
