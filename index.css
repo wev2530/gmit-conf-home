@@ -515,6 +515,7 @@ button {
   height: 100px;
   margin: 69px 0 0 0;
   z-index: 201;
+  opacity: 0;
 }
 .rectangle-11 {
   position: absolute;
@@ -4660,6 +4661,18 @@ iframe{
 
 }
 
+
+.sImg{
+  position: absolute;
+  background: url(./Group\ 289\ \(1\).png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  z-index: 150;
+  width: 100vw;
+  height: 100px;
+  top: 7400px;
+  left: 10%;
+}
 
 
 .meetD{
