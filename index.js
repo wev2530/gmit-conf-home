@@ -1,27 +1,27 @@
 const regPage = document.querySelector(".register-competition");
 
 regPage.addEventListener("click", function(){
-    window.location.href = "https://gmit-conf-registration.netlify.app/";
+    window.location.href = "";
 });
 
 const spPage = document.querySelector(".speakers");
 
 spPage.addEventListener("click", function(){
-    window.location.href = "https://gmit-conf-speakers.netlify.app/"
+    window.location.href = ""
 })
 
 
 const aboutPage = document.querySelector(".about");
 
 aboutPage.addEventListener("click", function(){
-    window.location.href = "https://gmitf-conf-about.webflow.io/"
+    window.location.href = ""
 });
 
 
 const gmitHome = document.querySelector(".gmit-home");
 
 gmitHome.addEventListener("click", function(){
-    window.location.href = "https://greatmindsintechfoundation.webflow.io/"
+    window.location.href = ""
 })
 
 
