@@ -322,6 +322,15 @@
         <div class="arrow-down"><div class="vector-f6"></div></div>
       </div>
     </div>
+    <script>
+      function redirectToMobile() {
+        if (window.innerWidth <= 400){
+          window.location.href="website/index.html";
+        }
+      }
+      window.onload = redirectToMobile;
+      window.onresize = redirectToMobile;
+    </script>
     <!-- CREATED BY VICTOR GABRIEL - https://VICTOR-GABRIEL.WEBFLOW.IO/ -->
   </body>
 </html>
