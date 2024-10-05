@@ -5,6 +5,10 @@
     "Source Han Sans CN", sans-serif;
 }
 
+body{
+  overflow-x: hidden;
+}
+
 .main-container {
   overflow: hidden;
 }
@@ -4691,4 +4695,8 @@ iframe{
   width: 20%;
   height: 400px;
   z-index: 1000;
+}
+
+a{
+  text-decoration: none;
 }
