@@ -1,3 +1,10 @@
+function redirectToMobile() {
+    if (window.innerWidth >= 430){
+      window.location.href="../../index.html"}
+  }
+  window.onload = redirectToMobile;
+  window.onresize = redirectToMobile;
+
 const mNav = document.querySelector(".vector1000");
 
 const mNav2 = document.querySelector(".vector100");
@@ -82,3 +89,14 @@ const countdown1 = () => {
 
 // Run the countdown function every second
 setInterval(countdown1, 1000);
+
+
+
+
+
+
+const bookASeat2 = document.querySelector(".navGet");
+
+bookASeat2.addEventListener("click", function(){
+    window.location.href = "https://lu.ma/49zk9vh8/"
+})

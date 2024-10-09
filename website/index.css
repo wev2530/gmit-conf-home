@@ -2536,3 +2536,17 @@ button {
   font-size: 10px;
   font-weight: normal;
 }
+
+
+.navGet{
+  width: 198.203px;
+  height: 46px;
+  border-radius: 39px;
+  color: #fefcfc;
+  font-family: Inter, var(--default-font-family);
+  font-size: 25.11111068725586px;
+  font-weight: 700;
+  line-height: 35.538px;
+  background: #2bbbaa;
+  border: none;
+}
