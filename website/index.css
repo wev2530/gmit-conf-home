@@ -130,7 +130,7 @@ button {
   z-index: 40;
   top: 3px;
   font-size: 45px;
-  left: 290px;
+  left: 270px;
   border: none;
 }
 .vectorX {
@@ -144,7 +144,7 @@ button {
   z-index: 40;
   top: 3px;
   font-size: 45px;
-  left: 290px;
+  left: 270px;
   border: none;
 }
 
@@ -2497,8 +2497,8 @@ button {
   /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); */
   position: absolute;
   z-index: 99;
-  width: 50%;
-  top: 168px;
+  width: 70%;
+  top: 178px;
   left: 50px;
   /* border: 2px solid; */
 }
