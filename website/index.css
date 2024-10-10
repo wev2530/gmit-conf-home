@@ -2450,7 +2450,7 @@ button {
   z-index: 99;
   top: 3933px;
   left: -30px;
-  border: 1px solid;
+  /* border: 1px solid; */
 }
 
 #timer {
@@ -2500,7 +2500,7 @@ button {
   width: 50%;
   top: 168px;
   left: 50px;
-  border: 2px solid;
+  /* border: 2px solid; */
 }
 
 #timer2 {
